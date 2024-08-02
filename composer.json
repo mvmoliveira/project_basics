@@ -2,6 +2,7 @@
     "name": "mvmoliveira/project_basics",
     "description": "Default project assets",
     "type": "library",
+	"version": "1.0.1",
     "authors": [
         {
             "name": "Marcus Oliveira"
