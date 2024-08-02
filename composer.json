@@ -1,0 +1,11 @@
+{
+    "name": "mvmoliveira/project_basics",
+    "description": "Default project assets",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Marcus Oliveira"
+        }
+    ],
+    "require": {}
+}
