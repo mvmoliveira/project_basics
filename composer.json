@@ -7,5 +7,7 @@
             "name": "Marcus Oliveira"
         }
     ],
-    "require": {}
+    "require": {},
+	"minimum-stability": "stable",
+    "license": "MIT"
 }
